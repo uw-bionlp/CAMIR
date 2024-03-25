@@ -9,7 +9,7 @@ Original PL-Marker implementation can be found at https://github.com/thunlp/PL-M
 ## Step 1. Download repo and required models
  - Download current directory
  - Unzip transformers.zip
- - Download all [models]{https://drive.google.com/drive/u/0/folders/1eyaqjrMNUJLxAIHxiYrqX4cCapxgZjPj} and put in the same directory
+ - Download all models from https://drive.google.com/drive/u/0/folders/1eyaqjrMNUJLxAIHxiYrqX4cCapxgZjPj and put in the same directory
 
 ## Step 2. Create virtual enviroments
 
@@ -26,6 +26,7 @@ Original PL-Marker implementation can be found at https://github.com/thunlp/PL-M
 ## Step 3. Put radiology reports in "sample_data" folder
 
  - Input radiology reports should be located in ./sample_data using .txt file format
+ - sample.txt is randomly selected from mtsamples radiology report (open-source radiology reports)
 
 ## Step 4. Run shell script
 
