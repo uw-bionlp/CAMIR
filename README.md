@@ -1,7 +1,7 @@
 # Corpus of Annotated Medical Imaging Reports (CAMIR)
 
-Title: A Novel Corpus of Annotated Medical Imaging Reports and Information Extraction Results Using BERT-based Language Models (accepted @ LREC-COLING 2024)
-Authors: Namu Park, Kevin Lybarger, Giridhar Kaushik Ramachandran, Spencer Lewis, Aashka Damani, Özlem Uzuner, Martin Gunn and Meliha Yetisgen
+ - Title: A Novel Corpus of Annotated Medical Imaging Reports and Information Extraction Results Using BERT-based Language Models (accepted @ LREC-COLING 2024)
+ - Authors: Namu Park, Kevin Lybarger, Giridhar Kaushik Ramachandran, Spencer Lewis, Aashka Damani, Özlem Uzuner, Martin Gunn and Meliha Yetisgen
 
 ## Annotation Guidelines
 
