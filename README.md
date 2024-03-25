@@ -13,4 +13,4 @@
 
 ## Code for PL-Marker++
 
- - Codes for PL-Marker++, which is an information extraction model used for our experimentation, can be found in PL-Marker++ subdirectory
+ - Codes for PL-Marker++, which is an information extraction model used for our experimentation, can be found in [PL-Marker++](https://github.com/uw-bionlp/CAMIR/PL-Marker++)
