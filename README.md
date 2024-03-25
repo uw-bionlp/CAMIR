@@ -5,7 +5,7 @@
 
 ## Annotation Guidelines
 
- - The most recent version of the annotation guidelines for CAMIR: CAMIR_Annotation_Guidelines_final.pdf
+ - The most recent version of the [annotation guidelines](CAMIR_Annotation_Guidelines_final.pdf) for CAMIR 
 
 ## Dataset
 
