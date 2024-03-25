@@ -1,8 +1,19 @@
+# Corpus of Annotated Medical Imaging Reports (CAMIR)
 
+Title: A Novel Corpus of Annotated Medical Imaging Reports and Information Extraction Results Using BERT-based Language Models (accepted @ LREC-COLING 2024)
+Authors: Namu Park, Kevin Lybarger, Giridhar Kaushik Ramachandran, Spencer Lewis, Aashka Damani, Özlem Uzuner, Martin Gunn and Meliha Yetisgen
+
+## Annotation Guidelines
+
+ - The most recent version of the annotation guidelines for CAMIR: CAMIR_Annotation_Guidelines.pdf
+
+## Dataset
+
+ - De-identified dataset will be released upon the approval of the University of Washington IRB 
 
 # PL-Marker++ for CAMIR
 
-Source code for PL-Marker++ (A Novel Corpus of Annotated Medical Imaging Reports and Information Extraction Results Using BERT-based Language Models accepted @ LREC-COLING 2024)
+Source code for PL-Marker++ 
 Example input and output will be added upon IRB approval.
 PL-Marker++, which is the augmented version of PL-Marker, provides the classification of subtypes for extracted entities.
 
